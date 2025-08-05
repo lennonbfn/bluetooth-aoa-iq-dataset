@@ -1,2 +1,1 @@
-# bluetooth-aoa-iq-dataset
-A public dataset containing IQ (In-phase and Quadrature) samples from Bluetooth 5.1 radio signals for Angle of Arrival (AoA) estimation.
+This repository hosts the raw and pre‑processed in‑phase/quadrature (IQ) samples collected for the paper “A 12‑Antenna Rectangular Array Dataset for Bluetooth Direction Finding” (submitted to IEEE Access, 2025).  The data were captured with Nordic nRF52833‑DK boards acting as tag and anchor and are intended for research on Angle‑of‑Arrival (AoA) estimation and indoor positioning.
