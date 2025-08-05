@@ -22,10 +22,10 @@ ble_aoa_dataset/               # Top-level after unzipping
 │   └── …                      # position_02 … position_n
 └── circular/                  # Circumference methodology (Fig. 13b)
     ├── radius_1/              # First measurement radius
-    │   ├── 0_deg/             # Tag azimuth (0°, 5°, …)
+    │   ├── 0_deg/             # Tag azimuth (0°, 45°, …)
     │   │   ├── file_01.txt
     │   │   └── … file_10.txt
-    │   ├── 5_deg/
+    │   ├── 45_deg/
     │   └── … 360_deg/
     ├── radius_2/
     └── … radius_n/
