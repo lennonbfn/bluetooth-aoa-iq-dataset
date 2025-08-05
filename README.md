@@ -3,8 +3,6 @@
 This repository hosts the **raw and pre-processed in-phase/quadrature (IQ) samples** collected for the paper *“A 12-Antenna Rectangular Array Dataset for Bluetooth Direction Finding”* (submitted to IEEE Access, 2025).  
 The data were captured with Nordic **nRF52833-DK** boards acting as tag and anchor and are intended for research on **Angle-of-Arrival (AoA)** estimation and indoor positioning.
 
-> **TL;DR** – clone the repo, download the release asset `ble_aoa_dataset_v1.0.zip`, unzip, and follow the quick-start notebook in [`code/`](code/).
-
 ---
 
 ## 1. Folder hierarchy
