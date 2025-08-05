@@ -1,7 +1,7 @@
 # Bluetooth Direction-Finding IQ Dataset
 
-This repository hosts the **raw and pre-processed in-phase/quadrature (IQ) samples** collected for the paper *“A 12-Antenna Rectangular Array Dataset for Bluetooth Direction Finding”* (submitted to IEEE Access, 2025).  
-The data were captured with Nordic **nRF52833-DK** boards acting as tag and anchor and are intended for research on **Angle-of-Arrival (AoA)** estimation and indoor positioning.
+This repository hosts the **raw and pre-processed in-phase/quadrature (IQ) samples** collected for the paper *“A Dataset for Indoor Localization: Real Bluetooth IQ Samples for Angle of Arrival Applications”* (submitted to IEEE Access, 2025).  
+The data were captured with Nordic **nRF52833-DK** boards acting as tag and anchor (12 antenna Array) and are intended for research on **Angle-of-Arrival (AoA)** estimation and indoor positioning.
 
 ---
 
