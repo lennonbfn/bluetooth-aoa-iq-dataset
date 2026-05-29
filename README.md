@@ -1,6 +1,6 @@
 # Bluetooth Direction-Finding IQ Dataset
 
-[![DOI]([https://zenodo.org/badge/DOI/10.5281/zenodo.18665150.svg)](https://doi.org/10.5281/zenodo.18665150](https://doi.org/10.5281/zenodo.19560334))
+[[![DOI]([https://zenodo.org/badge/DOI/10.5281/zenodo.18665150.svg)](https://doi.org/10.5281/zenodo.18665150](https://doi.org/10.5281/zenodo.19560334))](https://doi.org/10.5281/zenodo.19560334)
 
 This repository hosts the **raw and pre-processed in-phase/quadrature (IQ) samples** collected for the paper *“Experimental Methodology for Bluetooth Angle-of-Arrival Using Real IQ Samples in Indoor Localization Applications”.  
 The data were captured with Nordic **nRF52833-DK** boards acting as tag and anchor (12 antenna Array) and are intended for research on **Angle-of-Arrival (AoA)** estimation and indoor positioning.
